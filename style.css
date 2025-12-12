@@ -23,6 +23,7 @@ body {
   margin: 48px auto;
   font-family: "Alice", serif;
   font-weight: 400;
+  margin: 48px auto 28px;
 }
 
 img {
@@ -57,4 +58,14 @@ h1, h2 {
 
 ul {
   padding-left: 24px;
+}
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
