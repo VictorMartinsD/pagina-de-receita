@@ -18,8 +18,6 @@ O objetivo principal foi:
 ## ✨ Resultado Final
 
 ![Visão geral da Landing Page de Cupcake, mostrando o layout completo.](https://github.com/user-attachments/assets/a5f617cd-f7cd-42b6-a3c1-4e066a41838f)
-![Seção superior da página em zoom, destacando a imagem e a introdução.](https://github.com/user-attachments/assets/cc112525-ba54-496b-bfea-cc18df1b1782)
-![Seção inferior da página em zoom, mostrando os ingredientes, modo de preparo e rodapé.](https://github.com/user-attachments/assets/83c175aa-32bc-489b-8a81-3987e7a56976)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -72,8 +70,6 @@ The main goals were:
 ## ✨ Final Result
 
 ![Overview of the Cupcake Recipe Landing Page, showing the complete layout.](https://github.com/user-attachments/assets/a5f617cd-f7cd-42b6-a3c1-4e066a41838f)
-![Top section of the page zoomed in, highlighting the hero image and introduction.](https://github.com/user-attachments/assets/cc112525-ba54-496b-bfea-cc18df1b1782)
-![Bottom section of the page zoomed in, showing ingredients, preparation method, and footer.](https://github.com/user-attachments/assets/83c175aa-32bc-489b-8a81-3987e7a56976)
 
 ## 🛠️ Technologies Used
 
