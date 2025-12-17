@@ -1,5 +1,9 @@
 # 🧁 Landing Page de Receita: Cupcake de Café com Chantilly
 
+## 🔗 Deploy
+Você pode acessar a versão final do projeto através do link abaixo:
+[Acessar Página de Receita](https://victormartinsd.github.io/pagina-de-receita/)
+
 ## 🚀 Sobre o Projeto
 
 Este projeto é uma **Landing Page de Receita** desenvolvida como exercício prático de fixação dos fundamentos de **HTML** e **CSS**.
