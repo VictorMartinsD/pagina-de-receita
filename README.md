@@ -54,6 +54,10 @@ O objetivo principal foi:
 
 # 🧁 Recipe Landing Page: Coffee Cupcake with Chantilly
 
+## 🔗 Deploy
+You can access the final version of the project through the link below:
+[Access Recipe Page](https://victormartinsd.github.io/pagina-de-receita/)
+
 ## 🚀 About the Project
 
 This project is a **Recipe Landing Page** developed as a practical exercise to consolidate the fundamentals of **HTML** and **CSS**.
