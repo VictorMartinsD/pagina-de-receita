@@ -69,7 +69,7 @@ The main goals were:
 
 ## ✨ Final Result
 
-![Overview of the Cupcake Recipe Landing Page, showing the complete layout.](https://github.com/user-attachments/assets/a5f617cd-f7cd-42b6-a3c1-4e066a41838f)
+(See image in the section above)
 
 ## 🛠️ Technologies Used
 
