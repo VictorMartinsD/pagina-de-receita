@@ -23,7 +23,6 @@ O objetivo principal foi:
 
 * **HTML5:** Estrutura e Semântica.
 * **CSS3:** Estilização e Layout.
-* **JavaScript:** **Em estudo (Foco na lógica de programação).**
 * **Fontes:** Alice (Google Fonts).
 
 ## ⚙️ Como Rodar Localmente
@@ -75,7 +74,6 @@ The main goals were:
 
 * **HTML5:** Structure and Semantics.
 * **CSS3:** Styling and Layout.
-* **JavaScript:** **In study (Focus on programming logic).**
 * **Fonts:** Alice (Google Fonts).
 
 ## ⚙️ How to Run Locally
