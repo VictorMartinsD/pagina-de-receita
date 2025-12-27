@@ -1,8 +1,9 @@
 # 🧁 Landing Page de Receita: Cupcake de Café com Chantilly
 
-## 🔗 Deploy
-Você pode acessar a versão final do projeto através do link abaixo:
-[Acessar Página de Receita](https://victormartinsd.github.io/pagina-de-receita/)
+## 🔗 Links do Projeto
+
+[![Visualizar Projeto](https://img.shields.io/badge/Acessar%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/pagina-de-receita/)
+[![Figma Design](https://img.shields.io/badge/Figma-Design%20Original-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/vgLWhM6ErXOeTv1pK9sVsD/P%C3%A1gina-de-receita--Community-?node-id=3-376&p=f&t=Lnwamp1GzhaDyw8w-0)
 
 ## 🚀 Sobre o Projeto
 
@@ -51,9 +52,10 @@ O objetivo principal foi:
 
 # 🧁 Recipe Landing Page: Coffee Cupcake with Chantilly
 
-## 🔗 Deploy
-You can access the final version of the project through the link below:
-[Access Recipe Page](https://victormartinsd.github.io/pagina-de-receita/)
+## Project Links
+
+[![View Project](https://img.shields.io/badge/Access%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/pagina-de-receita/)
+[![Figma Design](https://img.shields.io/badge/Figma-Original%20Design-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/vgLWhM6ErXOeTv1pK9sVsD/P%C3%A1gina-de-receita--Community-?node-id=3-376&p=f&t=Lnwamp1GzhaDyw8w-0)
 
 ## 🚀 About the Project
 
@@ -87,10 +89,6 @@ The main goals were:
     cd pagina-de-receita
     ```
 3.  **Open `index.html`:** Simply open the `static/index.html` file in your browser or use the VS Code Live Server extension.
-
-## 🔗 Deployment Status
-
-* **Live Version:** [Paste the GitHub Pages link here, once it is working!]
 
 ---
 *Developed by [Victor Martins Dias] as part of the [Full-Stack/Rocketseat] training program.*
